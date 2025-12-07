@@ -65,14 +65,3 @@
   <li>Multiple subscriber types (Mobile, Email, Web Dashboard)</li>
   <li>Clean, extensible, and production-like structure</li>
 </ul>
-
-<hr>
-
-<footer>
-  <p>Real-time News Subscription Service &copy; 2025 | Built with Java &amp; Observer Pattern</p>
-</footer>
-
-</div>
-
-</body>
-</html>
