@@ -4,18 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Real-time News Subscription Service</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; line-height: 1.7; color: #333; max-width: 900px; margin: 40px auto; padding: 20px; background: #f8f9fa; }
-    h1, h2, h3 { color: #1a1a1a; border-bottom: 2px solid #007bff; padding-bottom: 10px; }
-    h1 { font-size: 2.5em; text-align: center; color: #007bff; }
-    h2 { font-size: 1.8em; margin-top: 40px; color: #0056b3; }
-    ul, ol { padding-left: 30px; }
-    li { margin: 10px 0; }
-    code { background: #e9ecef; padding: 2px 8px; border-radius: 4px; font-family: 'Courier New', monospace; }
-    .container { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
-    .badge { display: inline-block; padding: 5px 12px; background: #007bff; color: white; border-radius: 20px; font-size: 0.9em; font-weight: bold; }
-    footer { text-align: center; margin-top: 50px; color: #666; font-size: 0.9em; }
-  </style>
 </head>
 <body>
 
