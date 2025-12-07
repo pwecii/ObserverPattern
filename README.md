@@ -2,7 +2,6 @@
 
 <h1>Real-time News Subscription Service</h1>
 
-<p><span class="badge">Observer Pattern</span> <span class="badge">Java</span> <span class="badge">Design Patterns</span> <span class="badge">Scalable</span></p>
 
 <h2>Background</h2>
 <p>You're tasked with designing a <strong>real-time news subscription service</strong> for a media company. The system must notify subscribers instantly when breaking news is published by the news agency.</p>
